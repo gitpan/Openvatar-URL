@@ -13,4 +13,9 @@ no_index:
   directory: 
     - inc
     - t
-version: 0.0.1
+requires: 
+  Carp: 0
+  Digest::MD5: 0
+  Exporter: 0
+  URI::Escape: 0
+version: 0.0.2
